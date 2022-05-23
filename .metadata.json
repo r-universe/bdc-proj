@@ -1,6 +1,5 @@
 [
   {
-    "package": "bdc",
-    "oncran": true
+    "package": "bdc"
   }
 ]
