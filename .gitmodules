@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/bdc-proj/universe
+	url = https://github.com/bdc-proj/bdc-proj.r-universe.dev
 	branch = HEAD
 [submodule "bdc"]
 	path = bdc
